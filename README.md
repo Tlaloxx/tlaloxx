@@ -10,7 +10,7 @@
 
 <!-- Project 2: Salesforce Dashboards -->
 <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
-  <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/dos.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 10px;">
+  <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/design_portfolio.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 10px;">
 </a>
 
 <!-- Project 3: Sentiment Analysis -->

@@ -23,24 +23,24 @@
 
 <div align="center">
 
-  <!-- Project 1: Revenue Analysis -->
-  <a href="https://github.com/tlalocalvarez/revenue-analysis-excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/revenue-analysis.png" width="230" alt="Revenue Analysis" style="margin: 10px;">
+  <!-- Project 1 -->
+  <a href="https://github.com/Tlaloxx/revenue-analysis-excel" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tlaloxx/repo-image-links/main/revenue-analysis.png" width="230" alt="Revenue Analysis" style="margin: 10px;">
   </a>
 
-  <!-- Project 2: Salesforce CRM Dashboards -->
-  <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/salesforce-dashboard.png" width="230" alt="Salesforce CRM Dashboard" style="margin: 10px;">
+  <!-- Project 2 -->
+  <a href="https://github.com/Tlaloxx/salesforce-crm-dashboards" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tlaloxx/repo-image-links/main/salesforce-dashboard.png" width="230" alt="Salesforce CRM Dashboard" style="margin: 10px;">
   </a>
 
-  <!-- Project 3: Sentiment Analysis -->
-  <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/sentiment-analysis.png" width="230" alt="Sentiment Analysis" style="margin: 10px;">
+  <!-- Project 3 -->
+  <a href="https://github.com/Tlaloxx/sentiment-analysis-feedback" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tlaloxx/repo-image-links/main/sentiment-analysis.png" width="230" alt="Sentiment Analysis" style="margin: 10px;">
   </a>
 
-  <!-- Project 4: Coming Soon -->
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/coming-soon.png" width="230" alt="Upcoming Project" style="margin: 10px; opacity: 0.5;">
+  <!-- Project 4: Coming soon -->
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/Tlaloxx/repo-image-links/main/coming-soon.png" width="230" alt="Coming Soon" style="margin: 10px; opacity: 0.5;">
   </a>
 
 </div>
@@ -60,5 +60,6 @@
 <p align="center">
   🌐 <a href="https://tlalocalvarez.com">tlalocalvarez.com</a> •  
   💼 <a href="https://linkedin.com/in/tlalocalvarez">LinkedIn</a> •  
-  🐙 <a href="https://github.com/tlalocalvarez">GitHub</a>
+  🐙 <a href="https://github.com/Tlaloxx">GitHub</a>
 </p>
+

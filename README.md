@@ -11,11 +11,11 @@
     <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
       <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/sales_dashboard.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 12px;">
     </a>
-    <br><br><p></p>
+    <br><br>
     <strong>Revenue Analysis</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Salesforce CRM Dashboards</strong><br>
     <sub>Track revenue by product and region</sub> &nbsp;&nbsp; <sub>Monitor quality metrics and SLA progress</sub>
   </div>
-
+  <p></p>
   <!-- Row 2 -->
   <div style="margin-bottom: 35px;">
     <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">

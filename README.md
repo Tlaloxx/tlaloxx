@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/different.png" alt="Portfolio Cover" width="100%">
+  <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/cover.png" alt="Portfolio Cover" width="100%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Tlaloc Álvarez</h2>

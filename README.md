@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tlaloxx/repo-image-links/main/cover.png" alt="Portfolio Cover" width="100%">
+</p>
+
 <h2 align="center">👋 Hi, I'm Tlaloc Álvarez</h2>
 <p align="center">
   <strong>Data Analyst transitioning into Sales Operations</strong><br>
@@ -62,4 +66,3 @@
   💼 <a href="https://linkedin.com/in/tlalocalvarez">LinkedIn</a> •  
   🐙 <a href="https://github.com/Tlaloxx">GitHub</a>
 </p>
-

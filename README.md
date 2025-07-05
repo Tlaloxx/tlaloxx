@@ -1,36 +1,53 @@
-<h2 align="center">📊 Data Projects Portfolio</h2>
-<p align="center"><i>Click a project to explore the work</i></p>
+## 📊 Data Projects Portfolio  
+*Click a project to explore the work*
 
-<div align="center">
-
-  <!-- Project 1: Revenue Analysis -->
+<p align="center">
+  
+  <!-- Project 1 -->
   <a href="https://github.com/tlalocalvarez/revenue-analysis-excel" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/uno.png" width="260" alt="Revenue Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/thinker.png" width="260" alt="Revenue Analysis">
+    <br><strong>Revenue Analysis</strong><br>
+    <sub>Excel dashboard to track revenue by region and product</sub>
   </a>
+  <br><br>
 
-  <!-- Project 2: Salesforce CRM Dashboards -->
+  <!-- Project 2 -->
   <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/dos.png" width="260" alt="Salesforce CRM Dashboard" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/sales_dashboard.png" width="260" alt="Salesforce CRM Dashboards">
+    <br><strong>Salesforce CRM Dashboards</strong><br>
+    <sub>Dashboards to monitor quality metrics and process progress</sub>
   </a>
+  <br><br>
 
-  <!-- Project 3: Sentiment Analysis -->
+  <!-- Project 3 -->
   <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/tres.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Sentiment Analysis">
+    <br><strong>Sentiment Analysis</strong><br>
+    <sub>Python project analyzing feedback to extract user sentiment</sub>
+  </a>
+  <br><br>
+
+  <!-- Template 4 -->
+  <a href="#" target="_blank">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/salesforce.png" width="260" alt="Survey Reporting Automation">
+    <br><strong>Survey Reporting Automation</strong><br>
+    <sub>Automated survey reporting for internal feedback insights</sub>
+  </a>
+  <br><br>
+
+  <!-- Template 5 -->
+  <a href="#" target="_blank">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Data Cleaning">
+    <br><strong>Data Cleaning & Preprocessing</strong><br>
+    <sub>Cleaning messy datasets using Python or Power Query</sub>
+  </a>
+  <br><br>
+
+  <!-- Template 6 -->
+  <a href="#" target="_blank">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Business KPI Dashboard">
+    <br><strong>Business KPI Dashboard</strong><br>
+    <sub>Dashboard to track business metrics with visual insights</sub>
   </a>
 
-  <!-- Project 4: Survey Reporting Automation -->
-  <a href="https://github.com/tlalocalvarez/survey-reporting-automation" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cuatro.png" width="260" alt="Survey Reporting Automation" style="margin: 10px;">
-  </a>
-
-  <!-- Project 5: [Template] Data Cleaning & Preprocessing -->
-  <a href="https://github.com/tlalocalvarez/data-cleaning-template" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cinco.png" width="260" alt="Data Cleaning & Preprocessing" style="margin: 10px;">
-  </a>
-
-  <!-- Project 6: [Template] Business KPI Dashboard -->
-  <a href="https://github.com/tlalocalvarez/kpi-dashboard-template" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/seis.png" width="260" alt="KPI Dashboard" style="margin: 10px;">
-  </a>
-
-</div>
+</p>

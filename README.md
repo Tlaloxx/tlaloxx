@@ -1,5 +1,5 @@
 <h2 align="center">📊 Data Projects Portfolio</h2>
-<p align="center">Tech Stack: Excel · Power BI · Salesforce CRM · Python · Design · Strategy</p>
+<p align="center">Skills: Excel · Power BI · Salesforce CRM · Python · Design · Strategy</p>
 
 <div align="center">
 

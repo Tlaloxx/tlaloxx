@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tlaloxx/Tlaloxx/main/cover.png" width="100%" alt="Cover banner">
-</p>
-
 <h2 align="center">📊 Data Projects Portfolio</h2>
 <p align="center"><i>Click a project to explore the work</i></p>
 

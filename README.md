@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/cover.png" alt="Portfolio Cover" width="100%">
+  <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/different.png" alt="Portfolio Cover" width="100%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Tlaloc Álvarez</h2>
@@ -22,17 +22,17 @@
 
   <!-- Project 1 -->
   <a href="https://github.com/Tlaloxx/revenue-analysis-excel" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/revenue-analysis.png" width="230" alt="Revenue Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/cover.png" width="230" alt="Revenue Analysis" style="margin: 10px;">
   </a>
 
   <!-- Project 2 -->
   <a href="https://github.com/Tlaloxx/salesforce-crm-dashboards" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/salesforce-dashboard.png" width="230" alt="Salesforce Dashboard" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/sales_dashboard.png" width="230" alt="Salesforce Dashboard" style="margin: 10px;">
   </a>
 
   <!-- Project 3 -->
   <a href="https://github.com/Tlaloxx/sentiment-analysis-feedback" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/sentiment-analysis.png" width="230" alt="Sentiment Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/raw/main/thinker.png" width="230" alt="Sentiment Analysis" style="margin: 10px;">
   </a>
 
   <!-- Project 4 (Coming Soon) -->

@@ -11,7 +11,7 @@
     <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
       <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/sales_dashboard.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 12px;">
     </a>
-    <br><br>
+    <br><br><p></p>
     <strong>Revenue Analysis</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Salesforce CRM Dashboards</strong><br>
     <sub>Track revenue by product and region</sub> &nbsp;&nbsp; <sub>Monitor quality metrics and SLA progress</sub>
   </div>

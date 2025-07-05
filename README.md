@@ -1,5 +1,5 @@
 <h2 align="center">📊 Data Projects Portfolio</h2>
-<p align="center"><i>Tech Stack: Excel · Power BI · Power Query · Salesforce CRM · Python (learning) · SQL (learning) · Git · GitHub</i></p>
+<p align="center">Tech Stack: Excel · Power BI · Power Query · Salesforce CRM · Python (learning) · SQL (learning) · Git · GitHub</p>
 
 <div align="center">
 

@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tlalocalvarez/tlalocalvarez/main/cover.png" width="100%" alt="Cover banner">
+</p>
+
 <h2 align="center">👋 Hi, I'm Tlaloc Álvarez</h2>
 <p align="center">
   <strong>Data Analyst transitioning into Sales Operations</strong><br>
@@ -23,19 +28,19 @@
 
 <div align="center">
 
-  <!-- Project 1 -->
+  <!-- Revenue Analysis -->
   <a href="https://github.com/tlalocalvarez/revenue-analysis-excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/revenue-analysis.png" width="250" alt="Revenue Analysis" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/tlalocalvarez/tlalocalvarez/main/revenue-analysis.png" width="250" alt="Revenue Analysis" style="margin: 10px;">
   </a>
 
-  <!-- Project 2 -->
+  <!-- Salesforce CRM Dashboards -->
   <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/salesforce-dashboard.png" width="250" alt="Salesforce CRM Dashboard" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/tlalocalvarez/tlalocalvarez/main/salesforce-dashboard.png" width="250" alt="Salesforce CRM Dashboard" style="margin: 10px;">
   </a>
 
-  <!-- Project 3 -->
+  <!-- Sentiment Analysis -->
   <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/repo-image-links/main/sentiment-analysis.png" width="250" alt="User Feedback Sentiment Analysis" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/tlalocalvarez/tlalocalvarez/main/sentiment-analysis.png" width="250" alt="User Feedback Sentiment Analysis" style="margin: 10px;">
   </a>
 
 </div>

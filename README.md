@@ -13,7 +13,7 @@
   <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/design_portfolio.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 10px;">
 </a>
 
-<!-- Project 3: Sentiment Analysis -->
+<!-- Project 3: User Sentiment Analysis -->
 <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
   <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/excel_dashboard_portfolio.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
 </a>
@@ -50,8 +50,8 @@
 </details>
 
 <details>
-<summary><strong>💬 Sentiment Analysis</strong> — Python</summary>
-<p>Analyzed user comments using TextBlob to extract sentiment and highlight key themes.</p>
+<summary><strong>💬 User Sentiment Analysis</strong> — Python (Pandas, Numpy) </summary>
+<p>Analyzed user comments using Python to extract sentiment and highlight key themes.</p>
 </details>
 
 <details>

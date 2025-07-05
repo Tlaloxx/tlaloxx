@@ -15,7 +15,7 @@
 
 <!-- Project 3: Sentiment Analysis -->
 <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
-  <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/tres.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
+  <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/excel_dashboard_portfolio.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
 </a>
 
 <!-- Project 4: UDG SPACE Canvas -->

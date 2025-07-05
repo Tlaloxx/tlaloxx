@@ -5,7 +5,7 @@
 
   <!-- Project 1: Revenue Analysis -->
   <a href="https://github.com/tlalocalvarez/revenue-analysis-excel" target="_blank">
-    <img src="https://raw.githubusercontent.com/tlalocalvarez/tlalocalvarez/main/revenue-analysis.png" width="260" alt="Revenue Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Revenue Analysis" style="margin: 10px;">
   </a>
 
   <!-- Project 2: Salesforce CRM Dashboards -->

@@ -6,32 +6,32 @@
 
   <!-- Project 1: Revenue Analysis -->
   <a href="https://github.com/tlalocalvarez/revenue-analysis-excel" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Revenue Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/uno.png" width="260" alt="Revenue Analysis" style="margin: 10px;">
   </a>
 
   <!-- Project 2: Salesforce Dashboards -->
   <a href="https://github.com/tlalocalvarez/salesforce-crm-dashboards" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/dos.png" width="260" alt="Salesforce CRM Dashboards" style="margin: 10px;">
   </a>
 
   <!-- Project 3: Sentiment Analysis -->
   <a href="https://github.com/tlalocalvarez/sentiment-analysis-feedback" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/tres.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
   </a>
 
   <!-- Project 4: UDG Space Social Canvas -->
   <a href="https://github.com/tlalocalvarez/udgspace-social-canvas" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="UDG Space Canvas" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cuatro.png" width="260" alt="UDG Space Canvas" style="margin: 10px;">
   </a>
 
   <!-- Project 5: Excel Sales Dashboard -->
   <a href="https://github.com/tlalocalvarez/sales-dashboard-excel" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Excel Sales Dashboard" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cinco.png" width="260" alt="Excel Sales Dashboard" style="margin: 10px;">
   </a>
 
   <!-- Project 6: Design Thinking Workshop -->
   <a href="https://github.com/tlalocalvarez/design-thinking-workshop" target="_blank">
-    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Design Thinking Workshop" style="margin: 10px;">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/seis.png" width="260" alt="Design Thinking Workshop" style="margin: 10px;">
   </a>
 
 </div>

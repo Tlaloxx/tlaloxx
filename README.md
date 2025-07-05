@@ -18,5 +18,9 @@
     <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Sentiment Analysis" style="margin: 10px;">
   </a>
 
-</div>
+  <!-- Project 4: Survey Reporting Automation -->
+  <a href="https://github.com/tlalocalvarez/survey-reporting-automation" target="_blank">
+    <img src="https://github.com/Tlaloxx/Tlaloxx/blob/main/cover.png" width="260" alt="Survey Reporting Automation" style="margin: 10px;">
+  </a>
 
+</div>
